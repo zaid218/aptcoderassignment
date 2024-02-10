@@ -1,0 +1,25 @@
+nanoid in redux toolkit=>
+                         This is convenient for creating unique identifiers for entities like items, users, or any other data objects you manage in your Redux store.
+
+
+initialState can be object or anything like array but preferable in object                         
+
+
+
+slice=>
+        it is bigger version of the reducer and reducer is just a functionality.
+
+
+createSlice=>
+             it is just a method.it mostly takes an object
+
+
+
+              In React's useContext, you define a context and then use the useContext hook to access its value.
+              In Redux Toolkit, when you create a slice, you both define and declare the structure of a slice of the Redux store, including its initial state and reducer functions.
+
+
+export default todoSlice.reducer=>
+                                  store ko pta dilaane ke liye ki wo kaun kaun se reducers ka usse lena dena hai  
+
+
